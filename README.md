@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=C8622A&height=160&section=header&text=Hey,%20I'm%20Ankit%20👋&fontSize=38&fontColor=ffffff&fontAlignY=40" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=C8622A&height=160&section=header&text=Hey,%20I'm%20Ankit%20👋&fontSize=38&fontColor=ffffff&fontAlignY=45" width="100%"/>
 
   <p align="center">🎓 B.Tech Bioengineering @ IIT Jodhpur • 💻 Full‑Stack Developer • 🚀 Founder</p>
 
@@ -19,7 +19,7 @@
 
 <p align="center">
   <a href="https://github.com/ankitkumar25-rk?tab=repositories&q=&type=&language=&sort=stargazers"><img src="https://img.shields.io/badge/All%20Repos-View-blue?style=for-the-badge" alt="All repos"/></a>
-  <a href="https://github.com/ankitkumar25-rk/ankitkumar25-rk.github.io"><img src="https://img.shields.io/badge/Portfolio-Open-gray?style=for-the-badge" alt="Portfolio"/></a>
+  <a href="https://youngoat.dev/"><img src="https://img.shields.io/badge/Portfolio-Open-gray?style=for-the-badge" alt="Portfolio"/></a>
   <a href="https://photowalagift.online"><img src="https://img.shields.io/badge/Live%20Demo-PhotowalaGift-C8622A?style=for-the-badge" alt="PhotowalaGift Demo"/></a>
 </p>
 
