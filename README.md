@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=C8622A&height=160&section=header&text=Hey,%20I'm%20Ankit%20👋&fontSize=38&fontColor=ffffff&fontAlignY=20" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=C8622A&height=160&section=header&text=Hey,%20I'm%20Ankit%20👋&fontSize=38&fontColor=ffffff&fontAlignY=40" width="100%"/>
 
   <p align="center">🎓 B.Tech Bioengineering @ IIT Jodhpur • 💻 Full‑Stack Developer • 🚀 Founder</p>
 
