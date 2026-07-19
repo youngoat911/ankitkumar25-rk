@@ -1,11 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=C8622A&height=160&section=header&text=Hey,%20I'm%20Ankit%20👋&fontSize=38&fontColor=ffffff&fontAlignY=40" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=C8622A&height=160&section=header&text=Hey,%20I'm%20Ankit%20👋&fontSize=38&fontColor=ffffff&fontAlignY=20" width="100%"/>
 
-  <p align="center">
-    <img alt="avatar" src="https://github.com/ankitkumar25-rk.png" width="96" height="56" style="border-radius:50%; margin-top:-48px; border:4px solid #ffffff;" />
-  </p>
-
-  <h1 align="center">Ankit Kumar</h1>
   <p align="center">🎓 B.Tech Bioengineering @ IIT Jodhpur • 💻 Full‑Stack Developer • 🚀 Founder</p>
 
   <p align="center">
