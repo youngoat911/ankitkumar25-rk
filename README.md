@@ -119,9 +119,9 @@ const ankit = {
 ## Visual Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankitkumar25-rk&show_icons=true&theme=radical&hide_border=true" height="160"/>
+  <a href="https://github.com/ankitkumar25-rk"><img src="https://github-readme-stats.vercel.app/api?username=ankitkumar25-rk&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats" height="160" /></a>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitkumar25-rk&layout=compact&theme=radical&hide_border=true" height="160"/>
+  <a href="https://github.com/ankitkumar25-rk"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitkumar25-rk&layout=compact&theme=radical&hide_border=true" alt="Top languages" height="160" /></a>
 </div>
 
 ---
@@ -137,5 +137,5 @@ const ankit = {
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=C8622A&height=80&section=footer" width="100%"/>
   <p><em>Build first. Perfect later.</em></p>
-  <p>![Profile Views](https://komarev.com/ghpvc/?username=ankitkumar25-rk&color=C8622A&style=flat-square)</p>
+  <p><img src="https://komarev.com/ghpvc/?username=ankitkumar25-rk&color=C8622A&style=flat-square" alt="Profile Views"/></p>
 </div>
