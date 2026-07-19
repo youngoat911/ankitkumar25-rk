@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=cylinder&color=C8622A&height=160&section=header&text=Hey,%20I'm%20Ankit%20👋&fontSize=38&fontColor=ffffff&fontAlignY=40" width="100%"/>
 
   <p align="center">
-    <img alt="avatar" src="https://github.com/ankitkumar25-rk.png" width="96" height="96" style="border-radius:50%; margin-top:-48px; border:4px solid #ffffff;" />
+    <img alt="avatar" src="https://github.com/ankitkumar25-rk.png" width="96" height="56" style="border-radius:50%; margin-top:-48px; border:4px solid #ffffff;" />
   </p>
 
   <h1 align="center">Ankit Kumar</h1>
@@ -116,21 +116,6 @@ const ankit = {
 
 ---
 
-## Visual Metrics
-
-<div align="center">
-  <a href="https://github.com/ankitkumar25-rk"><img src="https://github-readme-stats.vercel.app/api?username=ankitkumar25-rk&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats" height="160" /></a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/ankitkumar25-rk"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitkumar25-rk&layout=compact&theme=radical&hide_border=true" alt="Top languages" height="160" /></a>
-</div>
-
----
-
-## Want to see more?
-
-- Tell me which projects you want showcased with screenshots or GIFs and I’ll add a gallery.
-- Provide your LinkedIn / Twitter / Email and I’ll replace the placeholders with direct links.
-- Want a dark or compact version? I can produce a shorter, single-column layout for mobile viewers.
 
 ---
 
