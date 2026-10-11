@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C8622A,100:7A2E0E&height=220&section=header&text=Ankit&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Founder%20%7C%20Bioengineering%20@%20IIT%20Jodhpur&descSize=17&descAlignY=60" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C8622A,100:7A2E0E&height=220&section=header&text=Ankit&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Web%20Developer%20%7C%20IIT%20Jodhpur&descSize=18&descAlignY=60" width="100%"/>
 
 <a href="https://github.com/ankitkumar25-rk">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=C8622A&center=true&vCenter=true&width=640&lines=Building+scalable+web+platforms;Full-stack+with+React+%2B+Node.js;IoT+and+AI+integrations;Product+thinking+with+engineering+depth" alt="Typing intro"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=C8622A&center=true&vCenter=true&width=640&lines=Building+web+applications;Working+with+React+and+Node.js;Experimenting+with+IoT+and+AI;Always+learning" alt="Typing intro"/>
 </a>
 
 <br/>
@@ -13,10 +13,6 @@
 <a href="https://github.com/ankitkumar25-rk"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <a href="https://www.linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=ankitkumar25-rk&label=Profile%20Views&color=C8622A&style=flat-square" alt="Profile views"/>
 
 </div>
 
@@ -28,9 +24,9 @@
 <tr>
 <td width="60%" valign="top">
 
-I am a first-year B.Tech Bioengineering student at **IIT Jodhpur** who builds production-grade full-stack products. I ship web platforms, wire up IoT hardware to the cloud, and integrate LLMs into real workflows.
+I am a first-year B.Tech student at **IIT Jodhpur**. I build web applications, experiment with IoT hardware, and work on LLM integrations in my projects.
 
-<img src="https://cdn.simpleicons.org/react/C8622A" width="16" height="16"/>&nbsp; Full-stack web applications<br/>
+<img src="https://cdn.simpleicons.org/react/C8622A" width="16" height="16"/>&nbsp; Web applications<br/>
 <img src="https://cdn.simpleicons.org/arduino/C8622A" width="16" height="16"/>&nbsp; IoT solutions with live dashboards<br/>
 <img src="https://cdn.simpleicons.org/googlegemini/C8622A" width="16" height="16"/>&nbsp; AI and LLM integrations<br/>
 <img src="https://cdn.simpleicons.org/github/C8622A" width="16" height="16"/>&nbsp; Open source contributions<br/>
@@ -41,9 +37,9 @@ I am a first-year B.Tech Bioengineering student at **IIT Jodhpur** who builds pr
 
 ```ts
 const ankit = {
-  role: "Full-Stack Developer & Founder",
-  education: "B.Tech Bioengineering, IIT Jodhpur",
-  focus: ["Web Apps", "IoT", "AI", "Product"],
+  role: "Web Developer",
+  education: "B.Tech, IIT Jodhpur",
+  focus: ["Web Apps", "IoT", "AI"],
   currentlyBuilding: "PhotowalaGift",
   openTo: ["Collaboration", "Open Source"],
 };
@@ -88,7 +84,7 @@ const ankit = {
 
 ### <img src="https://cdn.simpleicons.org/shopify/C8622A" width="22" height="22"/>&nbsp; PhotowalaGift
 
-Full-stack e-commerce platform for personalized gifts, live in production.
+E-commerce platform for personalized gifts.
 
 <img src="https://skillicons.dev/icons?i=react,vite,nodejs,postgres,prisma&theme=dark" alt="PhotowalaGift stack"/>
 
@@ -166,10 +162,6 @@ Real-time chat application showcasing WebSocket architecture and a clean modern 
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitkumar25-rk&theme=transparent&ring=C8622A&fire=C8622A&currStreakLabel=C8622A&sideLabels=8b949e&currStreakNum=8b949e&sideNums=8b949e&dates=8b949e&hide_border=true" alt="Streak stats"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ankitkumar25-rk&bg_color=0d1117&color=C8622A&line=C8622A&point=ffffff&area=true&area_color=C8622A&hide_border=true" alt="Contribution graph" width="95%"/>
 
 </div>
 
