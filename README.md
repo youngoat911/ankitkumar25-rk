@@ -1,16 +1,28 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=cylinder&color=C8622A&height=160&section=header&text=Hey,%20I'm%20Ankit%20👋&fontSize=38&fontColor=ffffff&fontAlignY=45" width="100%"/>
 
-  <p align="center">🎓 B.Tech Bioengineering @ IIT Jodhpur • 💻 Full‑Stack Developer • 🚀 Founder</p>
-
   <p align="center">
-    <a href="https://photowalagift.online"><img src="https://img.shields.io/badge/PhotowalaGift-C8622A?style=for-the-badge&logo=shopify&logoColor=white" alt="PhotowalaGift"/></a>
-    <a href="https://github.com/ankitkumar25-rk"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-    <a href="https://www.linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="mailto:"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+    <strong>B.Tech Bioengineering @ IIT Jodhpur</strong> | Full-Stack Developer | Founder
   </p>
 
-  <p align="center"> <strong>Primary:</strong> JavaScript / TypeScript • React • Node.js • Express • MongoDB / PostgreSQL • IoT (Arduino) • LLM integrations</p>
+  <p align="center">
+    <a href="https://photowalagift.online">
+      <img src="https://img.shields.io/badge/PhotowalaGift-C8622A?style=for-the-badge&logo=shopify&logoColor=white" alt="PhotowalaGift"/>
+    </a>
+    <a href="https://github.com/ankitkumar25-rk">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    </a>
+    <a href="https://www.linkedin.com">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="mailto:">
+      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+  </p>
+
+  <p align="center">
+    <strong>Tech Stack:</strong> JavaScript/TypeScript | React | Node.js | Express | MongoDB/PostgreSQL | IoT (Arduino) | LLM Integrations
+  </p>
 </div>
 
 ---
@@ -18,9 +30,15 @@
 ## Quick Links
 
 <p align="center">
-  <a href="https://github.com/ankitkumar25-rk?tab=repositories&q=&type=&language=&sort=stargazers"><img src="https://img.shields.io/badge/All%20Repos-View-blue?style=for-the-badge" alt="All repos"/></a>
-  <a href="https://youngoat.dev/"><img src="https://img.shields.io/badge/Portfolio-Open-gray?style=for-the-badge" alt="Portfolio"/></a>
-  <a href="https://photowalagift.online"><img src="https://img.shields.io/badge/Live%20Demo-PhotowalaGift-C8622A?style=for-the-badge" alt="PhotowalaGift Demo"/></a>
+  <a href="https://github.com/ankitkumar25-rk?tab=repositories&q=&type=&language=&sort=stargazers">
+    <img src="https://img.shields.io/badge/View_All_Repos-blue?style=for-the-badge" alt="All repos"/>
+  </a>
+  <a href="https://youngoat.dev/">
+    <img src="https://img.shields.io/badge/Portfolio-gray?style=for-the-badge" alt="Portfolio"/>
+  </a>
+  <a href="https://photowalagift.online">
+    <img src="https://img.shields.io/badge/Live_Demo-PhotowalaGift-C8622A?style=for-the-badge" alt="PhotowalaGift Demo"/>
+  </a>
 </p>
 
 ---
@@ -33,48 +51,80 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🎁 PhotowalaGift
+### PhotowalaGift
 
-<p>Full‑stack e‑commerce for personalized gifts — React (Vite), Node.js, PostgreSQL (Prisma), Cloudinary, Razorpay.</p>
+Full-stack e-commerce platform for personalized gifts built with modern web technologies.
+
+**Tech Stack:** React (Vite), Node.js, PostgreSQL (Prisma), Cloudinary, Razorpay
+
+**Features:**
+- Personalized gift customization
+- Secure payment integration
+- Image upload and management
+- Responsive design
 
 <p>
-  <a href="https://github.com/ankitkumar25-rk/photowalagift">Repository</a> • <a href="https://photowalagift.online">Live</a>
+  <a href="https://github.com/ankitkumar25-rk/photowalagift"><strong>Repository</strong></a> | 
+  <a href="https://photowalagift.online"><strong>Live Demo</strong></a>
 </p>
 
 </td>
 <td width="50%" valign="top">
 
-### 🔗 BrinX
+### BrinX
 
-<p>Campus task exchange platform with OTP/roll‑number verification, bidding, and reputation mechanics — Node.js, Express, MongoDB.</p>
+Campus task exchange platform with secure verification and reputation system.
+
+**Tech Stack:** Node.js, Express, MongoDB
+
+**Features:**
+- OTP/Roll-number verification
+- Bidding system for tasks
+- User reputation mechanics
+- Real-time notifications
 
 <p>
-  <a href="https://github.com/ankitkumar25-rk/BrinX-new">Repository</a>
+  <a href="https://github.com/ankitkumar25-rk/BrinX-new"><strong>Repository</strong></a>
 </p>
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
-### 🌿 FreshScan
+### FreshScan
 
-<p>AI + IoT freshness tracker: Arduino sensors → Node.js backend (Socket.io) → React dashboard. Uses Gemini/GPT for image analysis.</p>
+AI-powered freshness tracking system combining IoT sensors with machine learning.
+
+**Tech Stack:** Arduino, Node.js (Socket.io), React, Gemini/GPT API
+
+**Features:**
+- Real-time sensor data monitoring
+- AI-based image analysis
+- Interactive dashboard
+- WebSocket communication
 
 <p>
-  <a href="https://github.com/ankitkumar25-rk/freshscan">Repository</a>
+  <a href="https://github.com/ankitkumar25-rk/freshscan"><strong>Repository</strong></a>
 </p>
 
 </td>
 <td width="50%" valign="top">
 
-### 💬 WhatChat
+### WhatChat
 
-<p>Real‑time chat rooms using Socket.io, React frontend and Express backend — good demo of realtime websockets and UI polish.</p>
+Real-time chat application demonstrating WebSocket implementation and modern UI.
+
+**Tech Stack:** Socket.io, React, Express
+
+**Features:**
+- Real-time messaging
+- Multiple chat rooms
+- Modern UI/UX design
+- Scalable architecture
 
 <p>
-  <a href="https://github.com/ankitkumar25-rk/WhatChat">Repository</a>
+  <a href="https://github.com/ankitkumar25-rk/WhatChat"><strong>Repository</strong></a>
 </p>
 
 </td>
@@ -85,37 +135,13 @@
 
 ---
 
-## About Me (compact)
+## About Me
 
 ```javascript
 const ankit = {
-  role: "Full‑Stack Developer & Founder",
+  role: "Full-Stack Developer & Founder",
   education: "B.Tech Bioengineering @ IIT Jodhpur",
-  focus: ["Web Apps", "IoT", "AI integrations", "Product"],
+  focus: ["Web Applications", "IoT Solutions", "AI Integrations", "Product Development"],
   tools: ["React", "Node.js", "TypeScript", "MongoDB", "PostgreSQL", "Socket.io"],
-}
-```
-
----
-
-## Tech & Languages
-
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres"/>
-</p>
-
----
-
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=C8622A&height=80&section=footer" width="100%"/>
-  <p><em>Build first. Perfect later.</em></p>
-  <p><img src="https://komarev.com/ghpvc/?username=ankitkumar25-rk&color=C8622A&style=flat-square" alt="Profile Views"/></p>
-</div>
+  interests: ["Building scalable applications", "Open source contributions", "Entrepreneurship"]
+};
