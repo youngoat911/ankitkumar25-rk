@@ -152,21 +152,6 @@ Real-time chat application showcasing WebSocket architecture and a clean modern 
 
 <br/>
 
-## GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ankitkumar25-rk&show_icons=true&theme=transparent&title_color=C8622A&icon_color=C8622A&text_color=8b949e&hide_border=true&rank_icon=github" alt="GitHub stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitkumar25-rk&layout=compact&theme=transparent&title_color=C8622A&text_color=8b949e&hide_border=true" alt="Top languages"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitkumar25-rk&theme=transparent&ring=C8622A&fire=C8622A&currStreakLabel=C8622A&sideLabels=8b949e&currStreakNum=8b949e&sideNums=8b949e&dates=8b949e&hide_border=true" alt="Streak stats"/>
-
-</div>
-
-<br/>
-
 ## Connect
 
 <div align="center">
