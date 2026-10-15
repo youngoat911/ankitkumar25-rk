@@ -24,7 +24,7 @@
 <tr>
 <td width="60%" valign="top">
 
-I am a first-year B.Tech student at **IIT Jodhpur**. I build web applications, experiment with IoT hardware, and work on LLM integrations in my projects.
+I am a second-year B.Tech student at **IIT Jodhpur**. I build web applications, experiment with IoT hardware, and work on LLM integrations in my projects.
 
 <img src="https://cdn.simpleicons.org/react/C8622A" width="16" height="16"/>&nbsp; Web applications<br/>
 <img src="https://cdn.simpleicons.org/arduino/C8622A" width="16" height="16"/>&nbsp; IoT solutions with live dashboards<br/>
